@@ -1,0 +1,16 @@
+C:\Git\Controle.De.Estoque\bin\Debug\net5.0\Controle.De.Estoque.exe
+C:\Git\Controle.De.Estoque\bin\Debug\net5.0\Controle.De.Estoque.deps.json
+C:\Git\Controle.De.Estoque\bin\Debug\net5.0\Controle.De.Estoque.runtimeconfig.json
+C:\Git\Controle.De.Estoque\bin\Debug\net5.0\Controle.De.Estoque.runtimeconfig.dev.json
+C:\Git\Controle.De.Estoque\bin\Debug\net5.0\Controle.De.Estoque.dll
+C:\Git\Controle.De.Estoque\bin\Debug\net5.0\ref\Controle.De.Estoque.dll
+C:\Git\Controle.De.Estoque\bin\Debug\net5.0\Controle.De.Estoque.pdb
+C:\Git\Controle.De.Estoque\obj\Debug\net5.0\Controle.De.Estoque.csproj.AssemblyReference.cache
+C:\Git\Controle.De.Estoque\obj\Debug\net5.0\Controle.De.Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Controle.De.Estoque\obj\Debug\net5.0\Controle.De.Estoque.AssemblyInfoInputs.cache
+C:\Git\Controle.De.Estoque\obj\Debug\net5.0\Controle.De.Estoque.AssemblyInfo.cs
+C:\Git\Controle.De.Estoque\obj\Debug\net5.0\Controle.De.Estoque.csproj.CoreCompileInputs.cache
+C:\Git\Controle.De.Estoque\obj\Debug\net5.0\Controle.De.Estoque.dll
+C:\Git\Controle.De.Estoque\obj\Debug\net5.0\ref\Controle.De.Estoque.dll
+C:\Git\Controle.De.Estoque\obj\Debug\net5.0\Controle.De.Estoque.pdb
+C:\Git\Controle.De.Estoque\obj\Debug\net5.0\Controle.De.Estoque.genruntimeconfig.cache
